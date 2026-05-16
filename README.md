@@ -1,6 +1,3 @@
-<img width="989" height="858" alt="high-risk png" src="https://github.com/user-attachments/assets/4764b1f3-a016-4f2b-b9ea-6d393f22403a" />
-<img width="1038" height="871" alt="low-risk png" src="https://github.com/user-attachments/assets/a47392a7-8b0a-4270-9067-80e82582e319" />
-<img width="1205" height="869" alt="app-ui png" src="https://github.com/user-attachments/assets/2a346526-b61c-486f-924a-ca58760dc760" />
 <h1 align="center">📱 Telco Customer Churn Prediction</h1>
 
 <p align="center">
@@ -71,15 +68,6 @@ streamlit run app.py
 
 ## 📸 Project Screenshots
 
-### 🔹 High Churn Prediction
-![High Risk](high-risk.png)
-
----
-
-### 🔹 Low Churn Prediction
-![Low Risk](low-risk.png)
-
----
-
-### 🔹 Application Dashboard
-![Dashboard](app-ui.png)
+<img width="989" height="858" alt="high-risk png" src="https://github.com/user-attachments/assets/4764b1f3-a016-4f2b-b9ea-6d393f22403a" />
+<img width="1038" height="871" alt="low-risk png" src="https://github.com/user-attachments/assets/a47392a7-8b0a-4270-9067-80e82582e319" />
+<img width="1205" height="869" alt="app-ui png" src="https://github.com/user-attachments/assets/2a346526-b61c-486f-924a-ca58760dc760" />
