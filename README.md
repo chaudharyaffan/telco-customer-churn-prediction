@@ -63,17 +63,20 @@ streamlit run app.py
 **Affan Chaudhary**---
 ---
 
-## 📸 Project Screenshots
+## 📸 Project Screenshot<img width="989" height="858" alt="high-risk" src="https://github.com/user-attachments/assets/e922891c-2651-498a-91f5-cc12a9151818" />
+<img width="1038" height="871" alt="low-risk" src="https://github.com/user-attachments/assets/18b48772-4bf0-4a36-94a8-94e178131e9d" />
+<img width="1205" height="869" alt="app-ui" src="https://github.com/user-attachments/assets/6bd712c6-3cfa-4907-bcfb-f7d035f9dee1" />
+
 
 ### 🔹 High Churn Prediction
-<img width="900" alt="high-risk" src="https://github.com/user-attachments/assets/2e0f3ef0-775d-4df4-a6e0-906520c91d77" />
+![High Risk](high-risk.png)
 
 ---
 
 ### 🔹 Low Churn Prediction
-<img width="900" alt="low-risk" src="https://github.com/user-attachments/assets/adfeed6a-fc99-4b5b-9274-c03e4954fab7" />
+![Low Risk](low-risk.png)
 
 ---
 
 ### 🔹 Application Dashboard
-<img width="900" alt="app-ui" src="https://github.com/user-attachments/assets/b34efae8-632c-4e73-a028-4d7fbe6-9412" />
+![Dashboard](app-ui.png)
