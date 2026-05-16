@@ -58,15 +58,15 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Author
-
-**Affan Chaudhary**---
 ---
 
-## 📸 Project Screenshot<img width="989" height="858" alt="high-risk" src="https://github.com/user-attachments/assets/e922891c-2651-498a-91f5-cc12a9151818" />
-<img width="1038" height="871" alt="low-risk" src="https://github.com/user-attachments/assets/18b48772-4bf0-4a36-94a8-94e178131e9d" />
-<img width="1205" height="869" alt="app-ui" src="https://github.com/user-attachments/assets/6bd712c6-3cfa-4907-bcfb-f7d035f9dee1" />
+## 👨‍💻 Author
 
+**Affan Chaudhary**
+
+---
+
+## 📸 Project Screenshots
 
 ### 🔹 High Churn Prediction
 ![High Risk](high-risk.png)
