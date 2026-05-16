@@ -1,3 +1,4 @@
+<img width="1205" height="869" alt="app-ui png" src="https://github.com/user-attachments/assets/2a346526-b61c-486f-924a-ca58760dc760" />
 <h1 align="center">📱 Telco Customer Churn Prediction</h1>
 
 <p align="center">
