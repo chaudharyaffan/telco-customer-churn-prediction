@@ -94,14 +94,12 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Author
-
 **Affan Chaudhary**
-BSc Data Science 
+BSc Data Science | MSc Business Analytics & Consultancy — Heriot-Watt University Dubai
 📧 chaudharyaffan25@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/affan-chaudhary) · [GitHub](https://github.com/chaudharyaffan)
 
 ---
 
 *Built as part of an analytics portfolio targeting Data Analyst
-and Business Intelligence roles
+and Business Intelligence roles in the UAE market.*
